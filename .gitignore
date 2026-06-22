@@ -1,1 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+*.egg-info/
+
+# OS / editor
 .DS_Store
+.claude/
+.idea/
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Office temp lock files
+~$*
+
+# Local working checklist (do not ship)
+REVIEW_CHECKLIST.md
